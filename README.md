@@ -1,3 +1,3 @@
 # Sokoban-unity
 
-![Start-photo](photos/Start-photo.png)
+![Start-photo](photo/Start-photo.png)
