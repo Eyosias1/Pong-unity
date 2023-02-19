@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MenuSokoban.unity
+    guid: 5a0dc65e4ae8fc547a3b28960ea2d1a7
+  - enabled: 1
+    path: Assets/Scenes/NiveauxSokoban.unity
+    guid: ad540065af3751c44beb9f45442c05da
+  - enabled: 1
+    path: Assets/Scenes/Levels/PlateauSokoban.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Levels/Level2.unity
+    guid: 337419225688b0d498ae723c9a620b38
+  - enabled: 1
+    path: Assets/Scenes/Levels/Level3.unity
+    guid: b6928de7bd94989448ac1dc6136ef690
+  - enabled: 1
+    path: Assets/Scenes/Levels/Level4.unity
+    guid: 265e48175e532a244b2185185d60af0d
+  - enabled: 1
+    path: Assets/Scenes/Levels/Level5.unity
+    guid: afcd4c92d55cbe444aadc4505c991198
+  - enabled: 1
+    path: Assets/Scenes/Levels/Level6.unity
+    guid: 164565e75fc564945af4bd09a053a9aa
+  - enabled: 1
+    path: Assets/Scenes/Levels/Level7.unity
+    guid: 009ec5440aea17f42afb9a1fd279e794
+  - enabled: 1
+    path: Assets/Scenes/Levels/Level8.unity
+    guid: dc5b07554da4fd048bf8f81c30976975
+  - enabled: 1
+    path: Assets/Scenes/Levels/Level9.unity
+    guid: 9a8c22a13777a0241b04ee283363aec6
+  - enabled: 1
+    path: Assets/Scenes/Levels/Level10.unity
+    guid: b1ad5bf8bd45c3e448547a77b560629d
+  - enabled: 1
+    path: Assets/Scenes/Levels/FinalLevel.unity
+    guid: 04a31a5738374c54da96cb34703affcd
+  m_configObjects: {}
