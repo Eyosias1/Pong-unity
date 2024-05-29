@@ -33,5 +33,5 @@ Status: Done
 - **Designed the user interface**: Used the **`MenuController`** class to manage interactions with the main menu, providing a smooth and intuitive user experience.
 - **Controlled player movements**: Programmed the **`Player`** class to manage the character's movements, including controls and interactions with boxes and walls.
 
-![Unity-game-gyphy.gif](assets/Unity-game-gyphy.gif)
+![Unity-game-gyphy.gif](gif/Unity-game-gyphy.gif)
 
