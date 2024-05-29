@@ -9,6 +9,8 @@ Status: Done
 
 **Description:** *The game we intend to implement is inspired by Sokoban, a puzzle game invented in Japan. In this game, the player must arrange boxes on target squares. They can move in four directions and push (but not pull) one box at a time. Once all the boxes are placed, the level is completed, and the player moves on to the next, generally more difficult, level.*
 
+![Unity-game-gyphy.gif](gif/Unity-game-gyphy.gif)
+
 **Mechanisms to Implement:**
 
 - [ ]  *Model the game board, boxes, and player*
@@ -33,5 +35,4 @@ Status: Done
 - **Designed the user interface**: Used the **`MenuController`** class to manage interactions with the main menu, providing a smooth and intuitive user experience.
 - **Controlled player movements**: Programmed the **`Player`** class to manage the character's movements, including controls and interactions with boxes and walls.
 
-![Unity-game-gyphy.gif](gif/Unity-game-gyphy.gif)
 
